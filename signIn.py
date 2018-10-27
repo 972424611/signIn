@@ -3,8 +3,8 @@ import urllib.parse
 import json
 import random
 
-username = "201650080523"
-password = "074016"
+username = "201650080"
+password = "074"
 
 loginHeader = {
     "Accept": "text/html, application/xhtml+xml,image/jxr,*/*",
